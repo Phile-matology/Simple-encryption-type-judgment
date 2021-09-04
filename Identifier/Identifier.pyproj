@@ -5,7 +5,7 @@
     <ProjectGuid>4c5e5385-f9a7-48a6-85ad-f91f8d10ab2b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>Identifier.py</StartupFile>
-    <SearchPath>..\..\..\..\AppData\Local\Programs\Python\Python39\Lib\site-packages\pybase100</SearchPath>
+    <SearchPath>..\..\..\..\AppData\Local\Programs\Python\Python39\Lib\site-packages\pybase100;..\..\..\..\AppData\Local\Programs\Python\Python39\Lib\site-packages\base58</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>Identifier</Name>
